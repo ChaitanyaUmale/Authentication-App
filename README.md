@@ -50,9 +50,4 @@ Before running the application, make sure you have the following:
 
 ---
 
-## Database Setup 🗄️
 
-1. **Create a new database** in MySQL:
-
-   ```sql
-   CREATE DATABASE auth28sep24;
